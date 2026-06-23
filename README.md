@@ -1,10 +1,18 @@
 # Civon AI Kennisplatform
 
-Proof of Concept voor een lokaal AI-gestuurd kennisplatform binnen Civon.
+Proof of Concept voor een lokaal AI-gestuurd kennisplatform, ontwikkeld binnen de **AIC4NL Learning Community**.
 
 ## Doel
 
-Medewerkers van Civon kunnen via een chatbot vragen stellen over intern beschikbare kennis. Het systeem is gebaseerd op het RAG-patroon (Retrieval Augmented Generation) en draait volledig op lokale infrastructuur — geen externe AI-diensten.
+Ontwikkelen van een PoC waarmee medewerkers via een chatbot snel, correct en controleerbaar antwoord kunnen krijgen op technische vragen, met bronnen uit bestaande systemen. Het systeem draait volledig op lokale infrastructuur — geen externe AI-diensten.
+
+## Centrale use case (VB Airsuspension)
+
+> *"Hoe kunnen gebruikers en collega's snel, correct en controleerbaar antwoord krijgen op technische vragen, met bronnen uit bestaande systemen?"*
+
+## Secundaire use case (Civon)
+
+Vergelijkbaar systeem voor het beheren en ontsluiten van kennis uit de verschillende lopende projecten binnen Civon.
 
 ## Status
 
@@ -26,12 +34,12 @@ civon-ai-kennisplatform/
 
 ## Betrokkenen
 
-| Naam | Rol |
-|---|---|
-| Roelof van Leeuwen | Onderzoeker, productdefinieerder, ontwikkelleider |
-| Klaas Reitsma | Contactpersoon community |
-| Niels Schooneveldt | Contactpersoon community |
-| Martin Stor | Contactpersoon community |
+| Naam | Organisatie | Rol |
+|---|---|---|
+| Roelof van Leeuwen | Graafschap College | Onderzoeker, productdefinieerder, ontwikkelleider |
+| Klaas Reitsma | AIC4NL / Civon | Contactpersoon community |
+| Niels Schooneveldt | AIC4NL / Civon | Contactpersoon community |
+| Martin Stor | AIC4NL / Civon | Contactpersoon community |
 
 ## Kernprincipes
 
@@ -39,6 +47,7 @@ civon-ai-kennisplatform/
 - RAG als architectuurpatroon
 - PoC-first — geen commercieel product
 - Iteratief werken in kleine stappen
+- Dubbele output: werkend PoC én lesmateriaal voor MBO en MKB
 
 ## Documentatie
 
